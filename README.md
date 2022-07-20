@@ -13,4 +13,5 @@ git add --all  && git commit -m "" && git push origin main <br>
 ssh-keygen -t rsa -C "mail вашего гитхаба"<br>
 
 # ссылки
- <h4>https://github.com/FreeOpcUa/python-opcua </h4>
+ <h4>https://github.com/FreeOpcUa/python-opcua <or>
+ https://www.youtube.com/watch?v=mEbPHflLNyc&list=PLWw98q-Xe7iGf-c4b6zF0bnJA9avEN_mF&index=1</h4>
