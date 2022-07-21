@@ -6,7 +6,7 @@ git commit -m "что сделал"                                  -- опис
 git push origin main                                        -- отправить на удаленный сервер свой коммит<br>
 
 
-git add --all  && git commit -m "" && git push origin main <br>
+git pull origin main  && git add --all  && git commit -m "" && git push origin main <br>
 
 
 для ssh <br>
